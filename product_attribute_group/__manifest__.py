@@ -18,7 +18,7 @@
     "data": [
         "security/ir.model.access.csv",
         "views/product_attribute_group_view.xml",
-        "views/product_attribute_value.xml",
+        "views/product_attribute_view.xml",
     ],
     "demo": [],
     "qweb": [],
